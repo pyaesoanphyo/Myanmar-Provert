@@ -1,7 +1,7 @@
 
 # Myanmar Proverb Dataset
 
-![Myanmar Proverb Dataset](Banner.png)
+![Myanmar Proverb Dataset](Banner)
 
 
 Welcome to the Myanmar Proverb Dataset! This dataset contains a collection of traditional proverbs from Myanmar, also known as Burma, representing the cultural wisdom and heritage of the country.
